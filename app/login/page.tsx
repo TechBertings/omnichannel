@@ -79,7 +79,7 @@ export default function Login() {
       <form onSubmit={(e) => { e.preventDefault(); submit(); }} noValidate className="w-full max-w-md rounded-xl border border-line bg-white p-8 shadow-sm">
         <div className="mb-8 text-center">
           <div className="mx-auto mb-4 grid h-14 w-14 place-items-center rounded-lg bg-ink text-xl font-semibold text-white">S</div>
-          <h1 className="text-2xl font-semibold tracking-tight">StockSync</h1>
+          <h1 className="text-2xl font-semibold tracking-tight">OmniChannel</h1>
           <p className="mt-1 text-sm text-ink/60">One stock count for Shopee, Lazada and TikTok Shop.</p>
         </div>
 
